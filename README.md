@@ -1,11 +1,12 @@
 # HQ9- compiler - by reetok
-It's new compiler.
+This is the new HQ9+ compiler.
 
-It added "S" command.
+I added a new command to it.
 
-"S" command is speak "hq9+".
+It can be run with "S" and when run it will say "HQ9+".
 
-They're move mac only.
+The command works only on Mac.
 
-because "say" command is mac only command.
+That's because the say command used for it works only on Mac.
 
+If you come up with a way to work on Windows or Linux, you can contact me.
